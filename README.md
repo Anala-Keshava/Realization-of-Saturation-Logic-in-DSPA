@@ -1,5 +1,5 @@
 # Realization-of-Saturation-Logic-in-DSPA
-Run testbench.v inorder to see the output
+Run testbench.v in order to see the output
 
 
 
